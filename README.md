@@ -2,14 +2,14 @@
 
 I'm an Information Systems student at Concordia University, St. Paul, passionate about technology, server administration, and building my own homelab. Currently exploring Linux, Docker, Proxmox, and virtualization while gaining hands-on experience managing self-hosted services and learning more about networking and cloud computing.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Languages**: Python (learning), SQL (learning)
 - **Currently Learning**: Linux, Docker, Proxmox, Virtualization
 - **Tools**: Ubuntu Server, Docker Compose, TrueNAS, Uptime Kuma, Portainer
 - **Interests**: Homelabbing, Server Administration, Networking, Self-hosted Services
 
 Current projects and goals.
-## 🌱 What I'm Currently Working On
+## What I'm Currently Working On
 - Expanding homelab with Proxmox, Docker, and self-hosted services
 - Learning Linux
 - CompTIA Trifecta
