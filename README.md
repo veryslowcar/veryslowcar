@@ -5,7 +5,7 @@ I'm an Information Systems student at Concordia University, St. Paul, passionate
 ## 🛠️ Technologies & Tools
 - **Languages**: Python (learning), SQL (learning)
 - **Currently Learning**: Linux, Docker, Proxmox, Virtualization
-- **Tools**: Ubuntu Server, Docker Compose, TrueNAS, Portainer, Uptime Kuma
+- **Tools**: Ubuntu Server, Docker Compose, TrueNAS, Uptime Kuma, Portainer
 - **Interests**: Homelabbing, Server Administration, Networking, Self-hosted Services
 
 Current projects and goals.
