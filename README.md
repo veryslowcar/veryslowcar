@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=19ACFD&repeat=false&width=435&lines=Hi%2C+I'm+Alex)](https://git.io/typing-svg)
 
-I'm an Information Systems student at Concordia University, St. Paul, passionate about technology, server administration, and building my own homelab. Currently trying to explore Linux, Docker, Proxmox, and virtualization while gaining managing self-hosted services.
+I'm an Information Systems student at Concordia University, St. Paul, passionate about technology, server administration, and building my own homelab. Currently trying to explore Linux, Docker, Proxmox, and virtualization while managing self-hosted services.
 
 ## Technologies & Tools:
 - **Languages**: Python (learning), SQL (learning)
